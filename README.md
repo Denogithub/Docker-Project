@@ -1,2 +1,1 @@
-# Docker-Project
-For Docker Training &amp; Project
+# Docker_Swarm_Project
