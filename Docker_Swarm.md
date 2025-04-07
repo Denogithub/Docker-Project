@@ -1,8 +1,8 @@
-Docker Swarm is use to auto load balancing of containers applications. Can easily scale up and down the service base on workload.
-Drain the manager or worker node to ensure no container is running so maintainance can be done on the node.
-This process ensure high availability and monitoring of application with zero down time.
-
-Kindly see the steps as outline below.
+Tasks:
+1. Docker Swarm is use to auto load balancing of containers applications. Can easily scale up and down the service base on workload.
+2. Drain the manager or worker node to ensure no container is running so maintainance can be done on the node.
+3. This process ensure high availability and monitoring of application with zero down time.
+4. Verify the process.
 
 ![Docker_swarm_1](https://github.com/Denogithub/Portainer_Project/assets/118014979/457c3ddd-dc72-4349-8800-542a7891beaf)
 
