@@ -1,5 +1,5 @@
 # Docker Basic command for performing administrative tasks #
-# This commands are used on a daily basis to accomplish operational tasks #
+# This commands are used on a daily basis to accomplish operational tasks by system administrator #
 
 <img width="409" height="88" alt="Docker_Basic_cmd_01" src="https://github.com/user-attachments/assets/1fd2aeb5-1fd1-49ac-be52-ed6814d3e89e" />
 <img width="533" height="304" alt="Docker_Basic_cmd_02" src="https://github.com/user-attachments/assets/e949c2c2-af77-43d3-a648-0f9d78a9e179" />
