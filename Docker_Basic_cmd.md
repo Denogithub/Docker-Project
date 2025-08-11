@@ -12,3 +12,7 @@
 <img width="775" height="157" alt="Docker_Basic_cmd_09" src="https://github.com/user-attachments/assets/de3e9565-6817-4926-a6bd-f5bc7e5e36cc" />
 <img width="788" height="170" alt="Docker_Basic_cmd_10" src="https://github.com/user-attachments/assets/b2c0ba2f-10ac-4e61-b5f1-7b16868d861c" />
 <img width="790" height="77" alt="Docker_Basic_cmd_11" src="https://github.com/user-attachments/assets/750f728e-12c5-4029-9591-aaefffe043ed" />
+<img width="781" height="326" alt="Docker_Basic_cmd_12" src="https://github.com/user-attachments/assets/d38e0b74-05b9-4af0-aaf4-6114f65b9d05" />
+<img width="772" height="170" alt="Docker_Basic_cmd_13" src="https://github.com/user-attachments/assets/e56f31ed-2afe-4ff6-8e80-5d1aa30da7b8" />
+<img width="786" height="349" alt="Docker_Basic_cmd_14" src="https://github.com/user-attachments/assets/8b2f29f5-f159-449f-abd6-4c26e04c5bc7" />
+<img width="612" height="91" alt="Docker_Basic_cmd_15" src="https://github.com/user-attachments/assets/a148dffe-f119-412b-a0f6-9112aa503e2c" />
