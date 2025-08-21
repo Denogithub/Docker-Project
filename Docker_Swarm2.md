@@ -19,3 +19,6 @@
 <img width="769" height="94" alt="Docker_Swarm_14" src="https://github.com/user-attachments/assets/f8787922-88f2-4fd5-a870-e5c82a6b1605" />
 <img width="683" height="361" alt="Docker_Swarm_15" src="https://github.com/user-attachments/assets/f62bbcec-5cdc-4c10-aa95-bc7ad26ed4a2" />
 <img width="690" height="196" alt="Docker_Swarm_16" src="https://github.com/user-attachments/assets/8fd61471-3df5-4fc2-8e14-dfc8758fe9ae" />
+<img width="667" height="358" alt="Docker_Swarm_17" src="https://github.com/user-attachments/assets/6f63b6e8-a0ac-4faa-8a60-bc4c06b5bbcc" />
+<img width="752" height="380" alt="Docker_Swarm_18" src="https://github.com/user-attachments/assets/7956aabc-9c73-4244-9134-c6b31521196d" />
+<img width="752" height="385" alt="Docker_Swarm_19" src="https://github.com/user-attachments/assets/4c47e706-7eec-445e-b8c7-a3c3f34b9d46" />
