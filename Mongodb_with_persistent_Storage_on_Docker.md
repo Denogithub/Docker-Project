@@ -25,3 +25,5 @@ d5-c2ba660dd427" />
 <img width="943" height="416" alt="Mongodb_on_Docker_23" src="https://github.com/user-attachments/assets/62ea0cf5-9178-428b-b6f4-7cc0868eff01" />
 <img width="806" height="401" alt="Mongodb_on_Docker_24" src="https://github.com/user-attachments/assets/9bdef6b4-dfb0-4b9c-b6e0-99df5bf900d2" />
 <img width="653" height="407" alt="Mongodb_on_Docker_25" src="https://github.com/user-attachments/assets/84039878-d9e6-4fa5-a45e-7ba14385be18" />
+<img width="748" height="403" alt="Mongodb_on_Docker_26" src="https://github.com/user-attachments/assets/c5219468-a69e-4d99-9c47-b97daedbd4c4" />
+<img width="945" height="415" alt="Mongodb_on_Docker_27" src="https://github.com/user-attachments/assets/4e4b6ae3-8ebb-4bbb-8ee5-2bf17a624928" />
